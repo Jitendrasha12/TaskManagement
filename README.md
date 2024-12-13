@@ -19,6 +19,8 @@ Start the Server
 
 npm run dev
 
+swaggerUrl = http://localhost:3000/api-docs/
+
 
 Assumptions and Design Decisions
 Database: MongoDB is used for data storage.
